@@ -4,7 +4,7 @@ Arto Rinne
 ## Otsikko2
 ### Otsikko3
 #### Otsikko4
-**Taitotalo - Tieto ja viestintätekniikan perustutkinto - Ohjelmitosuunnittelija**: 2023-2025 
+**Taitotalo - Tieto ja viestintätekniikan perustutkinto - Ohjelmistokehittäjä**: 2023-2025 
 
     Oleellista kurssien sisältöä
     1. Ohjelmoinnin perusteet ( JS, HTML, CSS, Wordpress)
@@ -65,10 +65,10 @@ Toimenkuvaan kuului kaikki ravintolan tehtävät. Ruuanvalmistus keittiössä, a
 ## Tekniikat
 
 **JavaScript:**
-Sujuva. Tekniikoita: useita pieniä kirjastoja, D3, React
+Perusteet. Koulutuksessa on tarkoitus suorittaa JavaScript sertifikaatti 2024
 
 **HTML:** 
-Sujuva
+Sujuva. Koulutukseen kuuluu HTML/CSS sertifikaatin suoritus alkuvuodesta 2024
 
 **CSS:**
 Sujuva. Tekniikoita: BootStrap
@@ -77,37 +77,38 @@ Sujuva. Tekniikoita: BootStrap
 Perusteet
 
 **Python:** 
-Sujuva. Tekniikoita: useita pieniä kirjastoja, Django, Pygame, Matplotlib
+Sujuva. tekniikoista perusteet Djangosta.
 
-**Java:**
-Perusteet
 
 **Git:**
 Perusteet
 
 **Linux:**
-Debian, perusteet
+ perusteet
 
 ## Extra 
 
-* Erityiset kiinnostuksenkohteet: APIt, big data, optimointi, tietokannat, RPA  
+* Erityiset kiinnostuksenkohteet: APIt, big data, Koneoppiminen, statistiikka, tietokannat, AGI, Kognitiotiede ja kognitiomallinnus. Jatkuva oppiminen. 
 
 * Ihmiskielet:
 
      * Suomi (äidinkieli) 
      * Englanti (sujuva)
+     * Ranska (sujuva)
+     * Ruotsi (kohtalainen)
+     * Venäjä (kohtalainen)
+     * Heprea (perusteet)
 
 
 
-## Tehtyjä projekteja [GitHubissa](https://github.com/sampsale)
+## Tehtyjä projekteja [GitHubissa](https://github.com/ArtoAvraham/)
 <ul>
-  <li><b>Space Launches:</b> Javascript, HTML, CSS, Bootstrap:  Tulevat avaruuslaukaisut ja muuta tietoa avaruudesta; ISS-sijainti kartalla (GoogleMaps API), avaruudessa olevat henkilöt, hakuja eri avaruusaiheisille asioille. Paljon datan käsittelyä JSON-muodossa ja käyttöliittymän tekemistä. Mobiiliystävällinen. <b>HUOM:</b> kaikki API-avaimet eivät ole tallennettu GitHubiin. <a href="https://github.com/sampsale/SpaceLaunches">Link</a>
+
+**Tekoäly Ristinolla** : Ensimmäinen projektini Python kielellä. Linkki repoon: ()
+
+
+**Yksinkertainen Blogisivu** : HTML ja CSS blogisivu (viimeistelyä vaille valmis, linkki tulossa pian)
+
+
+**Itsenäistä opiskelua** : Elements of AI MOOC kurssi, Ohjelmistoprojekteissa toimiminen, Python from hero to zero nettikurssi (työn alla), Python HY MOOC (työn alla). A! Fitech nerwork nettikursseja työn alla (Deep-learning for cognitive computing on erityisen mielenkiintoinen). 
   
-  <img src="images/spacelaunches.png" width="500" style="margin:100px"/>
-  </li>
-  <li><b>Arvaa vuosi:</b> JQuery, Bootstrap. Sovellus joka näyttää sarjan kuvia ja pyytää arvaamaan niiden ottamisvuoden. Linkki repoon <a href='https://github.com/sampsale/PhotoApp'>tässä</a> ja sovellukseen <a href='https://github.com/sampsale/PhotoApp'>tässä</a>.</li>
-    <img src="images/photoapp.png" width="500" style="margin:100px"/>
-  <li><b>Weather-app:</b> React-native, Expo: Sää-sovellus, joka ilmoittaa sään sijainnissasi tai tallentamissasi sijainneissa valinnan mukaan. Antaa tiettyihin kellonaikoihin push-notifikaation, mutta ikävä kyllä tämä toiminnallisuus on tällä hetkellä buginen. <a href="https://github.com/sampsale/WeatherApp">Link</a></li>
-  <li><b>Ukrainan sodan arkisto:</b> Tehty Djangolla + Bootstrappia käytetty tyylittelyyn. Arkisto 11 000:sta Ukrainan sotaan liittyvästä artikkeleista. Kerätty yhdeltä suomalaiselta mediatalolta. Ei julkisessa jaossa, sillä en omista artikkeleita.</li>
-  <li><b>Useita projekteja koulusta: </b><a href="https://github.com/sampsale">GitHubistani</a> löytyy useampi projekti, joita tehty koulutehtävinä: Linux-palvelimet kurssi, jossa tarkka raportointi palvelimen asentamisesta Linuxille ja domainin ostamisesta. PersonalTrainer app, joka tehty Reactia ja MUI:ta käyttäen. VisitedCountries, tehty Javalla, tekniikoina SpringBoot ja Thymeleaf. </li>
-  <li><b>Itsenäisesti opiskeltuja juttuja: </b><a href="https://github.com/sampsale/PythonCrashCourse">Python Crash Course</a>, <a href="https://fullstackopen.com/">FullStackOpen</a>(työn alla) ja useita satunnaisia projekteja (web scraperit, D3, yms). Suurin osa kaikista repoistani on piilotettuna joko puutteellisen dokumentaation tai keskeneräisyyden vuoksi. 
