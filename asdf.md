@@ -4,23 +4,22 @@ Arto Rinne
 ## Otsikko2
 ### Otsikko3
 #### Otsikko4
-**Haaga-Helia University of Applied Sciences, IT-Tradenomi**: 2016-2017, 2020-2022
+**Taitotalo - Tieto ja viestintätekniikan perustutkinto - Ohjelmitosuunnittelija**: 2023-2025 
 
     Oleellista kurssien sisältöä
-    1. Ohjelmoinnin perusteet (Java ja JS)
-    2. Käyttöliittymän suunnittelu (React)
-    3. Front-end (React)
-    4. Mobiiliohjelmointi (React-native)
-    5. Palvelinohjelmointi (Java + Springboot)
-    6. Blender perusteet
-    7. Relaatiotietokannat ja SQL
-    8. Ohjelmistoprojekti tiimissä (React, SQL, SpringBoot)
-    9. Basics of AI (Data parsing, Power BI)
-    10. Linux palvelimet (Linux perusteet, domain, palvelimet)
-    11. Windows palvelimet (domain, palvelimet)
-    12. Python Programming (Python perusteet)
-    13. AI with Python (Regressiomallit, yleinen AI)
-    14. Microsoft Azure Fundamentals (AWS)
+    1. Ohjelmoinnin perusteet ( JS, HTML, CSS, Wordpress)
+    2. Front-end (JS, HTML, CSS, Wordpress) (sertifiointitesti)
+    3. Back-end (JS tekniikat, Node.js)
+    4. PHP perusteet
+    5. Tietokannat ja SQL
+    6. Ohjelmistoprojektinäytöt työelämässä (tutkinto on näyttötutkinto)
+    7. AI perusteet
+    8. Linux palvelimet (Linux perusteet, domain, palvelimet)
+    9. Windows palvelimet (domain, palvelimet)
+    10. Python ohjelmoinnin perusteet
+    11. Tietoverkot 
+    12. Microsoft Azure Fundamentals (sertifiointikoe mahdollisuus)
+    13. Microsoft office 365 työkalut
 
 
 
