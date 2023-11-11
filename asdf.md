@@ -104,10 +104,10 @@ Perusteet
 ## Tehtyjä projekteja [GitHubissa](https://github.com/ArtoAvraham/)
 <ul>
 
-**Tekoäly Ristinolla** : Ensimmäinen projektini Python kielellä. Linkki repoon: ()
+**Tekoäly Ristinolla** : Ensimmäinen projektini Python kielellä. Linkki repoon: (https://github.com/ArtoAvraham/player.py/blob/main/game.py) (https://github.com/ArtoAvraham/player.py/blob/main/player.py)
 
 
-**Yksinkertainen Blogisivu** : HTML ja CSS blogisivu (viimeistelyä vaille valmis, linkki tulossa pian)
+**Yksinkertainen Blogisivu** : HTML ja CSS blogisivu (viimeistelyä vaille valmis, linkki tulossa pian) 
 
 
 **Itsenäistä opiskelua** : Elements of AI MOOC kurssi, Ohjelmistoprojekteissa toimiminen, Python from hero to zero nettikurssi (työn alla), Python HY MOOC (työn alla). A! Fitech nerwork nettikursseja työn alla (Deep-learning for cognitive computing on erityisen mielenkiintoinen). 
