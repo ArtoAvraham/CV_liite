@@ -26,31 +26,41 @@ Arto Rinne
 ## Työkokemus
 
 
-**Gigantti** 08/2017-09/2019
+**Gigantti call center** 08/2017-08/2018
 
-Asiakaspalvelu ja myynti (chat/puhelin/sähköposti/some) sekä yksityis- että b2b-asiakkaille, kirjanpito, vakuutusvaihdot, logistiikan ohjaus, yhteydenpito konsernin sisällä (Suomi + muu Eurooppa) ja yhteistyökumppanien kanssa (valmistajat, kuljetus- ja huoltoliikkeet, yms)  
+Asiakaspalvelu ja myynti (chat/puhelin/sähköposti/) sekä yksityis- että b2b-asiakkaille, logistiikan ohjaus, yhteydenpito konsernin sisällä (Suomi + muu Eurooppa) ja yhteistyökumppanien kanssa (valmistajat, kuljetus- ja huoltoliikkeet, yms) 
 
-**Yleisradio** 02/2021-04/2021, 06/2021-08/2021, 03/2022-12/2022 (osa-aika)
+**Gigantti yritysmyynti** 09/2018-09/2019
 
-2012: Nettimateriaalin luokittelu, editointi ja syöttäminen sivuille. 2021: Kielten oppimisten sivujen ja nettitehtävien korjaamista ja siirtämistä uuteen formaattiin. Sosiaalisen median moderointi (Twitter, Instagram, Facebook). 2022: Digitreenien päivittäminen
+Valtakunnallinen b2b inbound myyntiyksikkö. Yritysasiakkaille tuotteiden ja ratkaisujen myyntiä, sekä yritysasiakkaiden OP vakuutusvaihtojen tekeminen.
+
+**Calcus.com** 10/2019-nykyhetki
+Projektipäällikkö --
+
+Markkinointiprojektien suunnittelu, toteutus ja myynti. Kaupalliset mediat keskeisimpänä kanavana sekä B2B, että B2C puolella. Digi, printti ja videomainonta. Työssä onnistuminen on edellyttänyt vahvaa asiakkaiden liiketoimminan tarpeiden ymmärtämistä. Keskeisiä projekteja joiden kehittämisessä olen ollut mukana alusta asti:
+-Lääkäreiden työnantajamielikuvan kehittäminen Lääkärilehdessä ja lääkäridigissä. Calcus.com toimii alan mediassa yksinoikeudella maksullisen median tarjoajana. Suuri  kaikkien sairaanhoitopiirien (nyk. Hyvinvointialueet) asiakkaiden jatkuva yhteistyö työnantajakuvan kehittämisen saralla. Muita keskeisiä asiakkaita ovat olleet kaikki suuret kaupungit ja kunnat, yksityiset terveysyritykset sekä terveysteknologiayritykset.
+-Tivi employer branding: Printti ja digipuolen kehitys ja yhteistyö IT-alan yritysten ja työnantajien kanssa.
+-Suomen kuvalehti: Mainospaikkojen myynti irtonumeroihin.
+
+**Yritystoiminta oman toiminimen kautta** 09/2022-nykyhetki
+
+Livemiksaus ja roudauspalvelut bändeille sivutoimisena yrittäjänä.
+
 
 ### Muu työkokemus
 
-**Kansaneläkelaitos:** 02/2020-05/2020:
-Etuuskäsittelijä -- 
-Tulevien hakemusten ja muun postin avaaminen, lajittelu ja ohjaaminen oikealle osastolle
+**Cafe Cable:** : 06/2014-nykyhetki
+Kahvilatyöntekijä perheyrityksessä --
+Erinäisiä kahvilatehtäviä ja avustamista silloin tällöin "nollatuntisopimuksella". Kahvila ja konditoriatuotteiden valmistus, asiakaspalvelu, reskontra.
 
-**Verohallinto:** 06/2017-07/2017:
-Tallentaja -- 
-Veroilmoitusten digitalisointi
 
-**Posti:** 12/2015, 03/2016, 06/2016-08/2016 (osa-aika):
-Lajittelija -- 
-Postinumeroiden lukeminen ja tallentaminen koneelle, lajittelua	
+**Asianajotoimisto Ingrid Heickell Ky:** (määräaikainen) 08/2016-02/2017:
+Toimistoassistentti -- 
+Toimeksiannoissa avustaminen, laskutusjärjestelmän ja asiakasrekisterin ylläpito. Viranomaisissa asiointi ja oikeusapuhakemusten täyttäminen.	
 
-**Valio:** 07/2013-08/2013, 03/2014-08/2014 ja 05/2015-08/2015:
-Prosessivastaava --
-Teollisuustuotannon ohjaus, laitteiden valvonta, logistiikka, laaduntarkkailu, toimintaohjeiden laatiminen, perehdyttäminen
+**Mcdonald`s:** : 06/2013-08/2016
+Ravintolatyöntekijä --
+Toimenkuvaan kuului kaikki ravintolan tehtävät. Ruuanvalmistus keittiössä, asiakaspalvelu kassalla ja autokaistalla, Havikuorman purku, lajittelu ja kirjaaminen sekä ravintolasalin puhtaanapito.
 
 ## Tekniikat
 
