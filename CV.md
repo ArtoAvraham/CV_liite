@@ -1,9 +1,6 @@
 Arto Rinne 
 ============
-# Otsikko1
-## Otsikko2
-### Otsikko3
-#### Otsikko4
+
 **Taitotalo - Tieto ja viestintätekniikan perustutkinto - Ohjelmistokehittäjä**: 2023-2025 
 
     Oleellista kurssien sisältöä
