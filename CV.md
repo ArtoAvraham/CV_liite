@@ -64,6 +64,9 @@ Toimenkuvaan kuului kaikki ravintolan tehtävät. Ruuanvalmistus keittiössä, a
 **JavaScript:**
 Perusteet. Koulutuksessa on tarkoitus suorittaa JavaScript sertifikaatti 2024
 
+**REACT**
+Alkeet.
+
 **HTML:** 
 Sujuva. Koulutukseen kuuluu HTML/CSS sertifikaatin suoritus alkuvuodesta 2024
 
@@ -85,7 +88,7 @@ Perusteet
 
 ## Extra 
 
-* Erityiset kiinnostuksenkohteet: APIt, big data, Koneoppiminen, statistiikka, tietokannat, AGI, Kognitiotiede ja kognitiomallinnus. Jatkuva oppiminen. 
+* Erityiset kiinnostuksenkohteet: APIt, big data, Koneoppiminen, statistiikka, tietokannat, AGI, Kognitiotiede ja kognitiomallinnus, monimutkaiset järjestelmät (complex systems) Jatkuva oppiminen. 
 
 * Ihmiskielet:
 
@@ -104,8 +107,8 @@ Perusteet
 **Tekoäly Ristinolla** : Ensimmäinen projektini Python kielellä. Linkki repoon: (https://github.com/ArtoAvraham/player.py/blob/main/game.py) (https://github.com/ArtoAvraham/player.py/blob/main/player.py)
 
 
-**Yksinkertainen Blogisivu** : HTML ja CSS blogisivu (viimeistelyä vaille valmis, linkki tulossa pian) 
+**Yksinkertainen Blogisivu** : HTML ja CSS blogisivu (viimeistelyä vaille valmis, linkki tulossa pian) , koulutuksessa tehdyt single page sovellukset HTML kansiossa.
 
 
-**Itsenäistä opiskelua** : Elements of AI MOOC kurssi, Ohjelmistoprojekteissa toimiminen, Python from hero to zero nettikurssi (työn alla), Python HY MOOC (työn alla). A! Fitech nerwork nettikursseja työn alla (Deep-learning for cognitive computing on erityisen mielenkiintoinen). 
+**Itsenäistä opiskelua** : Full Stack Open kurssi (työn alla), Elements of AI MOOC kurssi, Ohjelmistoprojekteissa toimiminen, Python from hero to zero nettikurssi (työn alla), Python HY MOOC (arvosana 4). A! Fitech network nettikursseja työn alla (Introduction to AI). 
   
