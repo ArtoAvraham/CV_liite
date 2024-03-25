@@ -15,7 +15,7 @@ Arto Rinne
     9. Windows palvelimet (domain, palvelimet)
     10. Python ohjelmoinnin perusteet
     11. Tietoverkot 
-    12. Microsoft Azure Fundamentals (sertifiointikoe mahdollisuus)
+    12. Microsoft Azure Fundamentals 
     13. Microsoft office 365 työkalut
 
 
@@ -77,7 +77,7 @@ Sujuva. Tekniikoita: BootStrap
 Perusteet
 
 **Python:** 
-Sujuva. tekniikoista perusteet Djangosta.
+Sujuva. tekniikoista perusteet SKlearn, Pandas, Scipy, Numpy ja Matplotlib.
 
 
 **Git:**
@@ -103,6 +103,8 @@ Perusteet
 
 ## Tehtyjä projekteja [GitHubissa](https://github.com/ArtoAvraham/)
 <ul>
+
+**MLprojekti** : Ensimmäinen koneoppimis projekti, jossa analysoin dataa hyödyntäen eri Python kirjastoja mm. Sklearn, Scipy, Pandas, Numpy ja Matplotlib. Keräsin Apin kautta datan, opin visualisoimaan dataa eri tavoin ja kokeilin 6 eri algoritmiä ja valitsin niistä parhaan mallia varten. Linkki repoon: (https://github.com/ArtoAvraham/ML-project). readme.md tiedostossa on kaikki tiedot ja analysoitu data sekä tulokset kuvineen/diagrammeineen.
 
 **Tekoäly Ristinolla** : Ensimmäinen projektini Python kielellä. Linkki repoon: (https://github.com/ArtoAvraham/player.py/blob/main/game.py) (https://github.com/ArtoAvraham/player.py/blob/main/player.py)
 
