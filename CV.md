@@ -106,6 +106,8 @@ Perusteet
 
 **MLprojekti** : Ensimmäinen koneoppimis projekti, jossa analysoin dataa hyödyntäen eri Python kirjastoja mm. Sklearn, Scipy, Pandas, Numpy ja Matplotlib. Keräsin Apin kautta datan, opin visualisoimaan dataa eri tavoin ja kokeilin 6 eri algoritmiä ja valitsin niistä parhaan mallia varten. Linkki repoon: (https://github.com/ArtoAvraham/ML-project). readme.md tiedostossa on kaikki tiedot ja analysoitu data sekä tulokset kuvineen/diagrammeineen.
 
+**Yksinkertainen neuroverkko** Kahden neuronin neuroverkko koneoppimiseen. (https://github.com/ArtoAvraham/NN-project)
+
 **Tekoäly Ristinolla** : Ensimmäinen projektini Python kielellä. Linkki repoon: (https://github.com/ArtoAvraham/player.py/blob/main/game.py) (https://github.com/ArtoAvraham/player.py/blob/main/player.py)
 
 
